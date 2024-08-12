@@ -1,5 +1,8 @@
 To run: 
 ```bash
+npm install
+```
+```bash
 node gpt.js
 ```
 Api-key: 
