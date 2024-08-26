@@ -11,3 +11,11 @@ Good luck trying to decode
 ```bash
 chmod +x gpt.sh
 ```
+Add the alias into yout ~/.bashrc or ~/.zshrc
+```bash
+alias gpt="./gpt.sh"
+```
+Then run
+```bash
+source ~/.yourshellrc
+```
